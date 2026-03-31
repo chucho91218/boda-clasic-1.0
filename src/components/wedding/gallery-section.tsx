@@ -4,10 +4,10 @@ import Image from "next/image"
 import { motion } from "framer-motion"
 
 const galleryImages = [
-  { src: "/images/boda1.jpg", alt: "Boda 1" },
-  { src: "/images/boda2.jpg", alt: "Boda 2" },
-  { src: "/images/boda3.jpg", alt: "Boda 3" },
-  { src: "/images/boda4.jpg", alt: "Boda 4" },
+  { src: "/images/image (2).webp", alt: "Boda 1" },
+  { src: "/images/image (3).webp", alt: "Boda 2" },
+  { src: "/images/image (4).webp", alt: "Boda 3" },
+  { src: "/images/image (5).webp", alt: "Boda 4" },
 ]
 
 export function GallerySection() {
